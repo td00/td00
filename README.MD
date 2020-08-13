@@ -10,10 +10,10 @@
 
 #### Doing Stuff here:
 
-* [WOBCOM GmbH](https://wobcom.de) :moneybag: Thats where I get my money from.
-* [open Infrastructure e.V.](https://open-infrastructure.de) :computer: Thats where my money goes.
+* [:globe_with_meridians: **WOBCOM GmbH**](https://wobcom.de) :moneybag: Thats where I get my money from.
+* [:globe_with_meridians: **open Infrastructure e.V.**](https://open-infrastructure.de) :computer: Thats where my money goes.
 
 #### More:
 
-Find me [here](https://thiesmueller.de).
+Find me [:globe_with_meridians: **here**](https://thiesmueller.de) :keyboard:
 
