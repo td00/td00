@@ -11,7 +11,7 @@
 
 #### Doing Stuff here:
 
-* [:globe_with_meridians: **WOBCOM GmbH**](https://wobcom.de) :moneybag: Thats where I get my money from.
+* [:globe_with_meridians: **German Edge Cloud GmbH & Co. KG**](https://gec.io) :moneybag: Thats where I get my money from.
 * [:globe_with_meridians: **open Infrastructure e.V.**](https://open-infrastructure.de) :computer: Thats where my money goes.
 
 #### More:
